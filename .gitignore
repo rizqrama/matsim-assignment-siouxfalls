@@ -1,0 +1,23 @@
+# Maven build output
+target/
+
+# MATSim simulation outputs
+output/
+*.xml.gz
+*.events.xml
+
+# MATSim ITERS directory (large, never commit)
+ITERS/
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.vscode/
+.zed/
+*.iml
+.idea/
+
+# Large input files (track separately if needed)
+input/*.osm
+input/*.pbf
