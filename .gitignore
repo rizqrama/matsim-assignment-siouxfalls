@@ -21,3 +21,9 @@ ITERS/
 # Large input files (track separately if needed)
 input/*.osm
 input/*.pbf
+input/*.shp
+input/*.dbf
+input/*.shx
+input/*.prj
+input/*.cpg
+input/siouxfalls-voronoi-zones/
