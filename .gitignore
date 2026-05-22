@@ -17,6 +17,7 @@ ITERS/
 .zed/
 *.iml
 .idea/
+.claude/settings.local.json
 
 # Large input files (track separately if needed)
 input/*.osm
@@ -27,3 +28,7 @@ input/*.shx
 input/*.prj
 input/*.cpg
 input/siouxfalls-voronoi-zones/
+
+# other outputs
+*.docx
+*.zip
